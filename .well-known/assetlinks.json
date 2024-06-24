@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.johnax.sudologi",
+    "sha256_cert_fingerprints": ["66:CA:23:30:1F:C1:1E:41:B1:AB:0E:2C:7D:39:38:03:E4:31:6D:B7:B3:50:82:3A:B0:84:CD:92:87:E9:79:3F"]
+  }
+}]

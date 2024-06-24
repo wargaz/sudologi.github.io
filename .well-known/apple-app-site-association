@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7GUZ5LJ2X5.com.johnax.sudologi",
+        "paths": ["/*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["7GUZ5LJ2X5.com.johnax.sudologi"]
+  }
+}

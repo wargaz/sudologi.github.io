@@ -7,8 +7,5 @@
         "paths": ["/*"]
       }
     ]
-  },
-  "webcredentials": {
-    "apps": ["7GUZ5LJ2X5.com.johnax.sudologi"]
   }
 }
